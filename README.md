@@ -62,5 +62,8 @@ allure open
 
 Ao final, deverá aparecer no seu browser o relatório do **ALLURE** mostrando os resultados (inclusive os erros, se houver).
 
-```
+### ❗ Alterando o nome do projeto:
+
+``
+Lembrando também que: Para usar esse projeto num novo projeto o nome deve ser alterado na pasta "mãe" bem como no arquivo package.json no item "name": "colocar nome do seu projeto"
 
