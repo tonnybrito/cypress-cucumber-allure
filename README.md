@@ -1,7 +1,3 @@
-Claro! Para formatar seu README corretamente no GitHub, você deve escrevê-lo usando a **sintaxe Markdown**, que é suportada automaticamente pelo GitHub quando você nomeia o arquivo como `README.md`.
-
-Abaixo está a versão formatada do seu conteúdo em Markdown, pronta para colar no seu `README.md`:
-
 ---
 
 ````markdown
