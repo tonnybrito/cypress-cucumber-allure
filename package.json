@@ -8,7 +8,7 @@
     "cypress:run": "cypress run --spec 'cypress/e2e/features/**/*.feature'",
     "allure:generate": "allure generate allure-results --clean -o allure-report",
     "allure:open": "allure open allure-report",
-    "test:allure": "npx cypress run --env allure=true", // caso o allure reports nao seja criado, rode este arquivo no terminal
+    "test:allure": "npx cypress run --env allure=true", 
     "allure:report": "allure generate allure-results --clean -o allure-report && allure open allure-report"
      "postinstall": "mkdir -p cypress/e2e/features cypress/e2e/step-definitions"
   },
