@@ -65,6 +65,6 @@ Ao final, deverá aparecer no seu browser o relatório do **ALLURE** mostrando o
 ### ❗ Alterando o nome do projeto:
 
 ```
-O novo projeto deve ter seu nome alterado na pasta "mãe" e no arquivo package.json no item "name": "colocar nome do seu projeto"
+O projeto deve ter seu nome alterado na pasta "mãe", e no arquivo package.json no item "name": "novo nome do projeto "
 ```
 
