@@ -8,13 +8,13 @@ git clone git@github.com:tonnybrito/cypress-cucumber-allure.git
 Entre na pasta clonada:
 cd cypress-cucumber-allure
 
-📦 2. Instale as dependências (recria node_modules/)
+📦 2. Instale as dependências (recria node_modules/):
 npm install
 
 Usando os comandos no seu projeto
 Após a instalação, dentro do seu projeto, você pode rodar:
     • Para gerar o relatório (a partir da pasta allure-results):
-allure generate allure-results --clean -o allure-report
+allure generate allure-results --clean -o allure-report 
 allure open 
 
 OBS: se após rodar os testes a pasta Allure results não for criada rode o comando:
