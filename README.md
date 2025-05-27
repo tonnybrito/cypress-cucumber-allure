@@ -64,7 +64,3 @@ Ao final, deverá aparecer no seu browser o relatório do **ALLURE** mostrando o
 
 ```
 
----
-
-Se quiser, posso criar um repositório ou o arquivo para você. Deseja que eu gere esse `README.md` pronto para download?
-```
