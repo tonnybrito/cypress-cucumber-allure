@@ -5,7 +5,7 @@ Como recriar essas pastas localmente após clonar o projeto:
 🔁 1. Clone o repositório acesse sua pasta de testes e digite: 
 git clone git@github.com:tonnybrito/cypress-cucumber-allure.git
 
-Entre na pasta colnada:
+Entre na pasta clonada:
 cd cypress-cucumber-allure
 
 📦 2. Instale as dependências (recria node_modules/)
